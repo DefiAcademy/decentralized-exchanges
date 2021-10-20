@@ -1,4 +1,4 @@
-## Minimal Decentralized Exchange
+## Decentralized Exchanges
 
 Source code used for the Decentralized Exchanges course of Defi Academy
 
